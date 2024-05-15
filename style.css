@@ -1,0 +1,106 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.firstcon{
+  padding-left: 80px;
+  background-color: #63c5da;
+  position: sticky;
+  top: 0;
+}
+
+.secondcon{
+  background-color: #b2ffff;
+  color: #ffffff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+ 
+}
+
+.pix{
+  background-color: #c0c0c0;
+  font-family: 'Times New Roman', Times, serif;
+ padding-bottom: 20px;
+}
+
+button{
+  background-color: black;
+  border: none;
+  border-radius: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 8px;
+  padding-right: 8px;
+  color: #808080;
+  cursor: pointer;
+ margin-left: 100px;
+ 
+}
+
+.praone{
+  margin-left: 50px;
+}
+
+.cat{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: #EEEEEE;
+  padding-bottom: 20px;
+  background-color: #63c5da;
+}
+
+h1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.tec{
+  background-color: #c0c0c0;
+
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+
+.sp{
+  margin-left: 100px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 15px;
+  
+}
+.zenith{
+  background-color: #afeeee;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.hed{
+  font-family: 'Times New Roman', Times, serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+span{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.imp{
+    display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
